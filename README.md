@@ -1,4 +1,4 @@
-# Fashion
+# Fashion, Inc. (Fab.com)
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Fashion is a company surfaced as a portfolio company of battery-ventures and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: battery-ventures
+Fashion, Inc. was the legal entity behind Fab.com, the design-focused e-commerce and flash-sale marketplace founded in 2010 by Jason Goldberg and Bradford Shellhammer after pivoting from the Fabulis social network. Fab raised roughly $150M across rounds led by Menlo Ventures, Andreessen Horowitz and Atomico, listed Battery Ventures among its backers, and passed ten million members by December 2012 before layoffs and a collapse in growth. PCH International acquired Fab's digital assets in March 2015; the site was later repositioned around health and fitness goods and went offline in December 2022. The company is defunct and operated no public developer program or API. The fab.com domain is today registered to Epic Games, Inc. and serves Epic's unrelated Fab digital-asset marketplace, so nothing currently published at that host belongs to this company.
+
+**Areas:** Company · E-Commerce · Retail · Design · Consumer · Marketplace · Defunct
+
+## Fashion, Inc. (Fab.com) on APIs.io (historical record)
+
+Everything profiled for Fashion, Inc. (Fab.com) is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/fashion/](https://apis.io/providers/fashion/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Fashion, Inc. (Fab.com): the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/fashion/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
